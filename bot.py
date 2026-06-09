@@ -6,7 +6,7 @@ import aiosqlite
 import asyncio
 from datetime import datetime, timedelta
 
-TOKEN = "MTUxMzg0NDE1OTk3MzI5NDExMA.GedcOA.d_CiPL02vNY7e3sf67-G07LMRIPQydZCHY12eg"
+TOKEN = "YOUR TOKEN"
 
 intents = discord.Intents.default()
 intents.guilds = True
